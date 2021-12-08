@@ -1,0 +1,1 @@
+Terminal=||=sys.bash.png=||=window.location.href='bash.php';
