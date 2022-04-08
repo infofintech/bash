@@ -1,1 +1,1 @@
-Terminal=||=sys.bash.png=||=window.location.href='bash.php';
+Terminal|[1]|sys.bash.png|[1]|window.location.href='bash.php';
