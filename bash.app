@@ -1,1 +1,1 @@
-Terminal|[1]|sys.bash.png|[1]|window.location.href='bash.php';
+title|[>]|Terminal|[1]|favicon|[>]|sys.bash.png|[1]|run|[>]|window.location.href='bash.php';
