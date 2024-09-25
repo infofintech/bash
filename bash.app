@@ -1,1 +1,0 @@
-title|[>]|Terminal|[1]|favicon|[>]|sys.bash.png|[1]|run|[>]|window.location.href='bash.php';
