@@ -1,1 +1,1 @@
-{"author":"infofintech","host":"https:\/\/github.com","version":"1.5.3","branch":"main","initial_release":"2019","description":"A web-based GNU\/Linux Bash Terminal clone.","title":"Terminal","type":"Web Application","files":"bash.php;"}
+{"author":"infofintech","host":"https:\/\/github.com","version":"1.5.3","branch":"main","initial_release":"2019","description":"A web-based GNU\/Linux Bash Terminal clone.","title":"Terminal","type":"Web Application","run":"bash.php","favicon":"bash.icon.png","files":"bash.icon.png;bash.php;"}
